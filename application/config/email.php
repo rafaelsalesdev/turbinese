@@ -4,7 +4,7 @@
     $config['smtp_port']    = '465';
     $config['smtp_timeout'] = 60;
     $config['smtp_user']    = 'rsc.suporte@gmail.com';
-    $config['smtp_pass']    = 'paraboladoida';
+    $config['smtp_pass']    = '';
     $config['validate']     = 'TRUE';
     $config['charset']      = 'utf-8';
     $config['newline']      = "\r\n";
